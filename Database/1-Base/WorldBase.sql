@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.12, for Win64 (x86_64)
 --
--- Host: localhost    Database: ace_world
+-- Host: localhost    Database: ctd_world
 -- ------------------------------------------------------
 -- Server version	8.0.12
 
@@ -16,14 +16,14 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Current Database: `ace_world`
+-- Current Database: `ctd_world`
 --
 
 /*!40000 DROP DATABASE IF EXISTS `ace_world`*/;
 
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `ace_world` /*!40100 DEFAULT CHARACTER SET utf8 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `ctd_world` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
-USE `ace_world`;
+USE `ctd_world`;
 
 --
 -- Table structure for table `cook_book`
