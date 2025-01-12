@@ -1,4 +1,4 @@
-USE `ace_world`;
+USE `ctd_world`;
 
 --
 -- Table structure for table `version`
